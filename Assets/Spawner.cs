@@ -6,7 +6,7 @@ public class Spawner : MonoBehaviour {
 
 	public GameObject wallPrefab;
 	public float interval;
-	public float range = 3.0f;
+	public float range = 30.0f;
 
 
 
